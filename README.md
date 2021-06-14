@@ -1,1 +1,1 @@
-[![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true)]
+![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true&custom_title={Soyoung's GitHub(string)}&bg_color={45,#FFC796,#FF6B95}&title_color={white(hex)}&text_color={white(hex)})
