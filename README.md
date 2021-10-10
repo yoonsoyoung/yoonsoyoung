@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SO%20YOUNG%20YOON&fontAlign=50&fontAlignY=40&desc=Programming-Web/App%20Developer-UI%20Designer&descAlign=50.&descAlignY=60&&color=gradient&fontColor=ffffff&animation=twinkling)
 
 ![Soyoung's GitHub](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true&bg_color=45,f794a4,fdd6bd&title_color=ffffff&icon_color=ffffff&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoyoung&card_width=445&layout=compact&bg_color=100,fdd6bd,fbc8d4&title_color=ffffff&hide_border=true&langs_count=4)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoyoung&card_width=445&layout=compact&bg_color=100,fdd6bd,fbc8d4&title_color=ffffff&hide_border=true&langs_count=4)
 
   
 <br>
