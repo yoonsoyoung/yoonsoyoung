@@ -26,7 +26,10 @@
   
   
   ## ⚒ SKILLS ⚒ 
-  
+  ### I've tried it and what I can do...
+
+<br>
+	
   #### Languages
   
   <div style="display: inline-block">
@@ -55,7 +58,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   
   
-  #### Desgin
+  #### Design
   
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
