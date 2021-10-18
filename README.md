@@ -5,6 +5,8 @@
 ![Soyoung's GitHub](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true&bg_color=45,f794a4,fdd6bd&title_color=ffffff&icon_color=ffffff&hide_border=true)
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoyoung&card_width=445&layout=compact&bg_color=100,fdd6bd,fbc8d4&title_color=ffffff&hide_border=true&langs_count=4) -->
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hummingsy)](https://solved.ac/hummingsy)
 
   
 <br>
