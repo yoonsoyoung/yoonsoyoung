@@ -17,7 +17,7 @@
   
   ## 💛 About ME 💛 
   
-  <a href="https://www.instagram.com/5soo0young_2/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+	
   <a href="https://blog.naver.com/soyoung_it" target="_blank"><img src="https://img.shields.io/badge/blog-%03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <a href="https://yoonsoyoung.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-8B89CC.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="mailto:soyoung_it@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
