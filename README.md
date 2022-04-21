@@ -30,55 +30,101 @@
   ## ⚒ SKILLS ⚒ 
   ### I've tried it and what I can do...
 
+	
 <br>
 	
-  #### Languages
-  
-  <div style="display: inline-block">
-  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  </div>
-    
-  #### Frameworks and Libraries
-  
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  
-  
-  #### IDEs
-  
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  
-  
-  #### Design
-  
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  
-  
-  #### Hosting
-  
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  
-  
-  #### Database
-  
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <br>
-  <br>
-  <br>
+	
+<table>
+
+<tr>
+	<th>CATEGORY</th>
+	<th>SKILL</th>
+	<th>LEVEL [🌕🌕🌕]</th>
+</tr>
+<tr>
+	<td>Language</td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
+	<td>🌕🌕🌘</td>
+</tr>
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+	<td>🌕🌕🌗</td>
+</tr>
+
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td>
+	<td>🌕🌕🌗</td>
+</tr>
+
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
+	<td>🌕🌕🌖</td>
+</tr>
+
+<tr>
+	<td>Frameworks <br>and Libs</td>
+	<td></td>
+	<td></td>
+</tr>
+	
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></td>
+	<td>🌕🌕🌗</td>
+</tr>
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></td>
+	<td>🌕🌗🌑</td>
+</tr>
+
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
+	<td>🌕🌕🌑</td>
+</tr>
+
+<tr>
+	<td>Database</td>
+	<td></td>
+	<td></td>
+</tr>
+	
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></td>
+	<td>🌕🌗🌑</td>
+</tr>
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+	<td>🌕🌗🌑</td>
+</tr>
+	
+<tr>
+	<td>Hosting</td>
+	<td></td>
+	<td></td>
+</tr>
+	
+<tr>
+	<td> </td>
+	<td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
+	<td>🌕🌗🌑</td>
+</tr>
+	
+</table>
+	
+
+
   
   
    <br>
