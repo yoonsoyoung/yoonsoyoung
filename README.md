@@ -1,19 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SO%20YOUNG%20YOON&fontAlign=50&fontAlignY=40&desc=Programming-Web/App%20Developer-UI%20Designer&descAlign=50.&descAlignY=60&&color=gradient&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SO%20YOUNG%20YOON&fontAlign=50&fontAlignY=40&desc=Programming-Web/App%20Developer&descAlign=50.&descAlignY=60&&color=gradient&fontColor=ffffff&animation=twinkling)
 
-![Soyoung's GitHub](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true&bg_color=45,f794a4,fdd6bd&title_color=ffffff&icon_color=ffffff&hide_border=true)
 
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoyoung&card_width=445&layout=compact&bg_color=100,fdd6bd,fbc8d4&title_color=ffffff&hide_border=true&langs_count=4) -->
-	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hummingsy)](https://solved.ac/hummingsy)
-
-  
-<br>
-<br>
-<br>
-  
-  
   
   ## 💛 About ME 💛 
   
@@ -26,7 +15,52 @@
   <br>
   <br>
   
+  	
+ ### History & Activity	
+
+	
+<table>
+	<tr>
+		<td>🏫</td>
+		<td>조선대학교</td>
+		<td>컴퓨터공학 학사</td>
+		<td>2015.03 ~ 2020.02</td>
+	</tr>
+	<tr>
+		<td>🖥</td>
+		<td>머신러닝기반 JAVA 응용 SW개발자과정</td>
+		<td>스마트미디어인재개발원</td>
+		<td>2019.06 ~ 2019.08</td>
+	</tr>
+	<tr>
+		<td>💻</td>
+		<td>삼성 청년 SW 아카데미(SSAFY) 5기</td>
+		<td>삼성전자</td>
+		<td>2021.01 ~ 2021.11</td>
+	</tr>
+	<tr>
+		<td>🏦</td>
+		<td>퍼브(Firb)</td>
+		<td>솔루션개발팀</td>
+		<td>2022.03 ~ ing</td>
+	</tr>
+</table>
+	
+
+
+![Soyoung's GitHub](https://github-readme-stats.vercel.app/api?username=yoonsoyoung&show_icons=true&bg_color=45,f794a4,fdd6bd&title_color=ffffff&icon_color=ffffff&hide_border=true)
+
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoyoung&card_width=445&layout=compact&bg_color=100,fdd6bd,fbc8d4&title_color=ffffff&hide_border=true&langs_count=4) -->
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hummingsy)](https://solved.ac/hummingsy)
+
   
+<br>
+<br>
+<br>
+  
+  
+
   ## ⚒ SKILLS ⚒ 
   ### I've tried it and what I can do...
 
@@ -89,7 +123,7 @@
 <tr>
 	<td> </td>
 	<td><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
-	<td>🌕🌕🌑</td>
+	<td>🌕🌕🌘</td>
 </tr>
 
 <tr>
