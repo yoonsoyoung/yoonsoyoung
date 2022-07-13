@@ -22,8 +22,8 @@
 <table>
 	<tr>
 		<td>🏫</td>
-		<td>조선대학교</td>
 		<td>컴퓨터공학 학사</td>
+		<td>조선대학교</td>
 		<td>2015.03 ~ 2020.02</td>
 	</tr>
 	<tr>
@@ -40,8 +40,8 @@
 	</tr>
 	<tr>
 		<td>🏦</td>
-		<td>퍼브(Firb)</td>
 		<td>솔루션개발팀</td>
+		<td>퍼브(Firb)</td>
 		<td>2022.03 ~ ing</td>
 	</tr>
 </table>
