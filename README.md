@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SO%20YOUNG%20YOON&fontAlign=50&fontAlignY=40&desc=Programming-Web/App%20Developer&descAlign=50.&descAlignY=60&&color=gradient&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SO%20YOUNG%20YOON&fontAlign=50&fontAlignY=40&desc=Programming-Web/App%20Developer&descAlign=50&descAlignY=60&&color=gradient&fontColor=ffffff&animation=twinkling)
 
 
   
@@ -43,7 +43,7 @@
 		<td>🏦</td>
 		<td>솔루션개발팀</td>
 		<td>퍼브(Firb)</td>
-		<td>2022.03 ~ ing</td>
+		<td>2022.03 ~ 2024.08</td>
 	</tr>
 </table>
 	
